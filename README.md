@@ -72,6 +72,3 @@ The page displays a non-spinning turntable image when a song is paused or stoppe
 * T/A Support - Kyle Booth
 
 
-
-
-
